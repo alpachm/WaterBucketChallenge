@@ -62,3 +62,4 @@ The API accepts POST requests on the path http://localhost:8002/api/v1/. The req
 {"step": 4, "bucketX": 0, "bucketY": 4, "action": "Transfer from bucket X to Y", "status": "Solved"}
 ]
 }
+# WaterBucketChallenge
