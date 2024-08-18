@@ -22,7 +22,7 @@ Follow these steps to set up the project in your local environment:
 1. **Clone the repository:**
 
     \`\`\`bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/alpachm/WaterBucketChallenge.git
     cd FrontendChickens
     \`\`\`
 
@@ -62,5 +62,7 @@ The API accepts POST requests on the path http://localhost:8002/api/v1/. The req
 {"step": 4, "bucketX": 0, "bucketY": 4, "action": "Transfer from bucket X to Y", "status": "Solved"}
 ]
 }
+
 # WaterBucketChallenge
+
 # WaterBucketChallenge
